@@ -19,7 +19,7 @@ BitCatch is a fast and reliable file downloader application that supports both s
 
 ![History](https://github.com/Efeckc17/Bitcatch/blob/main/resim.png?raw=true)
 ![Download](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatchdown.png?raw=true)
-![Main](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatch.PNG?raw=true)
+![Main](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatch.png?raw=true)
 
 
 
