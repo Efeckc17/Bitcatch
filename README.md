@@ -13,10 +13,15 @@ BitCatch is a fast and reliable file downloader application that supports both s
 1. Clone the repository:
    ```bash
    git clone https://github.com/Efeckc17/Bitcatch.git
-Screenshots
+
+
+
+
 ![History](https://github.com/Efeckc17/Bitcatch/blob/main/resim.png?raw=true)
 ![Download](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatchdown.png?raw=true)
 ![Main](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatch.PNG?raw=true)
+
+
 
 
 Here are some screenshots showcasing BitCatch's interface and functionality:
