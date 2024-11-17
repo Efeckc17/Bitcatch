@@ -190,9 +190,9 @@ class DownloaderApp(QWidget):
         self.cancel_button.clicked.connect(self.cancel_download)
         layout.addWidget(self.cancel_button)
 
-        # Düz indirme çubuğu
+    
         self.progress_bar = QProgressBar()
-        self.progress_bar.setTextVisible(True)  # Yüzde metni ortada gözükecek
+        self.progress_bar.setTextVisible(True) 
         layout.addWidget(self.progress_bar)
 
         self.size_label = QLabel("Total Size: No file downloaded yet")
