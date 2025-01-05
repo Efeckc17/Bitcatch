@@ -1,42 +1,31 @@
-# BitCatch
+# **BitCatch2.0 Downloader** ⚡
 
-BitCatch is a fast and reliable file downloader application that supports both single-threaded and multi-part downloads, providing an enhanced download experience with high performance.
+![BitCatch Logo](Bitcatch.png)
 
-## Features
-- **High Performance Mode (HPD):** Boosts download speed by maximizing internet connection efficiency.
-- **Multi-Part Download:** Splits files into smaller parts for simultaneous downloads, increasing speed and reliability.
-- **Pause and Resume:** Pause and resume downloads at your convenience.
-- **Automatic Merging:** Automatically merges downloaded parts into a single file.
-- **Download History:** Tracks your downloads for easy access to past files.
+A **modern** and **dark-themed** downloader application built with **Python** and **PyQt5**.  
+Supports **multi-part** downloads, **pause/resume** functionality, and multiple **dark** color schemes.
 
-## Installation
-1. Clone the repository:
+---
+
+## **Key Features** 🔥
+
+- **Single-Thread** or **Multi-part** download modes  
+- **Pause** / **Resume** / **Cancel** downloads anytime  
+- **HPD** (High Performance) mode for faster downloads  
+- **Dark Themes** only (choose from 5 variations)  
+- **Simple History** of past downloads (saved in `history.json`)
+
+---
+
+## **Preview** 🎨
+
+![History Screenshot](History.png)
+
+---
+
+## **Installation** ⚙
+
+1. **Clone** or **download** this repository.  
+2. **Install dependencies**:
    ```bash
-   git clone https://github.com/Efeckc17/Bitcatch.git
-
-![Main Screen](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatch.PNG?raw=true)
-
-
-
-
-
-![Download Screen](https://github.com/Efeckc17/Bitcatch/blob/main/bitcatchdown.png?raw=true)
-
-
-
-
-
-![History](https://github.com/Efeckc17/Bitcatch/blob/main/history.PNG?raw=true)
-
-
-
-Here are some screenshots showcasing BitCatch's interface and functionality:
-
-Main Screen Download Screen BitCatch Application
-Usage
-
-    Enter the Download URL: Paste the file link into the URL field.
-    Select Save Location: Choose a folder where the file will be saved.
-    Choose Download Mode: Select between Single Thread and Multi-Part modes.
-    Select Performance Mode: Choose High Performance (HPD) for faster downloads.
-    Start Download: Click "Download" to begin.
+   pip install pyqt5 requests
