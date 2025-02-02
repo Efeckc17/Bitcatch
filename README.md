@@ -8,7 +8,7 @@ Supports **multi-part** downloads, **pause/resume** functionality, and multiple 
 ---
 
 ## **Key Features** 🔥
-
+- **Safe for iso files**
 - **Single-Thread** or **Multi-part** download modes  
 - **Pause** / **Resume** / **Cancel** downloads anytime  
 - **HPD** (High Performance) mode for faster downloads  
