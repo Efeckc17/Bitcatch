@@ -1,0 +1,7 @@
+# For BitCatch 2.1 (new version)
+PySide6>=6.4.0
+
+# For BitCatch 2.0 
+PyQt5>=5.15.0
+
+requests>=2.28.1
